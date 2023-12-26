@@ -1,0 +1,48 @@
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Undefined variable $row_codm in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 76
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Trying to access array offset on value of type null in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 76
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Undefined variable $row_codm in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 78
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Trying to access array offset on value of type null in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 78
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Undefined variable $row_codm in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 79
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Trying to access array offset on value of type null in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 79
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Undefined variable $row_codm in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 80
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Trying to access array offset on value of type null in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 80
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Undefined variable $row_codm in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 82
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Trying to access array offset on value of type null in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 82
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Undefined variable $row_codm in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 83
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Trying to access array offset on value of type null in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 83
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Undefined variable $row_codm in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 84
+[22-Dec-2023 14:31:56 Asia/Dubai] PHP Warning:  Trying to access array offset on value of type null in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 84
+[22-Dec-2023 14:44:52 Asia/Dubai] PHP Warning:  Undefined variable $cus_cargo in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 243
+[22-Dec-2023 14:44:52 Asia/Dubai] PHP Fatal error:  Uncaught TypeError: array_unique(): Argument #1 ($array) must be of type array, null given in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php:243
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php(243): array_unique()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 243
+[23-Dec-2023 12:23:40 Asia/Dubai] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/posfkpop/skillheist.com/prime/layouts/header.php:171) in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 28
+[23-Dec-2023 12:24:02 Asia/Dubai] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/posfkpop/skillheist.com/prime/layouts/header.php:171) in /home/posfkpop/skillheist.com/prime/quote_breakdown_sea.php on line 28
+[25-Dec-2023 01:24:18 America/New_York] PHP Parse error:  syntax error, unexpected token "if" in /home/posfkpop/skillheist.com/prime/quote_breakdown_land.php on line 222
+[25-Dec-2023 03:05:26 America/New_York] PHP Parse error:  syntax error, unexpected token "if" in /home/posfkpop/skillheist.com/prime/quote_breakdown_land.php on line 222
+[26-Dec-2023 11:49:23 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 200
+[26-Dec-2023 11:49:23 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 630
+[26-Dec-2023 11:49:23 Asia/Dubai] PHP Warning:  Undefined variable $tot_desti_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 11:49:23 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 11:49:23 Asia/Dubai] PHP Warning:  Undefined variable $tot_orgin_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 11:49:23 Asia/Dubai] PHP Warning:  Undefined variable $tot_desti_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635
+[26-Dec-2023 11:49:23 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635
+[26-Dec-2023 11:49:23 Asia/Dubai] PHP Warning:  Undefined variable $tot_orgin_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635
+[26-Dec-2023 11:51:47 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 200
+[26-Dec-2023 11:51:47 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 630
+[26-Dec-2023 11:51:47 Asia/Dubai] PHP Warning:  Undefined variable $tot_desti_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 11:51:47 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 11:51:47 Asia/Dubai] PHP Warning:  Undefined variable $tot_orgin_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 11:51:47 Asia/Dubai] PHP Warning:  Undefined variable $tot_desti_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635
+[26-Dec-2023 11:51:47 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635
+[26-Dec-2023 11:51:47 Asia/Dubai] PHP Warning:  Undefined variable $tot_orgin_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635
+[26-Dec-2023 13:21:26 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 200
+[26-Dec-2023 13:21:26 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 630
+[26-Dec-2023 13:21:26 Asia/Dubai] PHP Warning:  Undefined variable $tot_desti_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 13:21:26 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 13:21:26 Asia/Dubai] PHP Warning:  Undefined variable $tot_orgin_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 634
+[26-Dec-2023 13:21:26 Asia/Dubai] PHP Warning:  Undefined variable $tot_desti_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635
+[26-Dec-2023 13:21:26 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635
+[26-Dec-2023 13:21:26 Asia/Dubai] PHP Warning:  Undefined variable $tot_orgin_charge in /home/posfkpop/skillheist.com/prime/quote_breakdown_air.php on line 635

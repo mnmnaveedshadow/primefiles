@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300;400&display=swap');
+h1,h2,h3,h4,h5,h6{
+font-family: 'Roboto', sans-serif;
+}
+p{
+font-family: 'Open Sans', sans-serif;
+}
+body{
+  background-color:#001742;
+}
+
+.shipping-main-option{
+transition: 0.3s;
+border: 1px solid; /* Set the border width */
+border-image: linear-gradient(to right, #d1ce19, #0044ba); /* Set the gradient colors and direction */
+border-image-slice: 1; /* Ensure the entire border is covered with the gradient */
+border-radius: 20px;
+
+padding-top:10px;
+padding-bottom:10px;
+
+text-align:center;
+
+font-size:18px;
+font-family: 'Raleway', sans-serif;
+font-weight:bold;
+
+background-color:#fff;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+cursor: pointer;
+
+color:#fff;
+}
+.btn-prime{
+  width:50%;
+  background-color:#001742;
+  color:#fff;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.shipping-main-option-active{
+transition: 0.3s;
+background-color: transparent;
+color:#006351;
+}
+.rate-card-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+
+.rate-card-table th, .rate-card-table td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.rate-card-table th {
+  background-color: #f2f2f2;
+}
+
+.rate-card-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.rate-card-table tr:hover {
+  background-color: #ddd;
+}
+
+.card-border{
+  border-radius:10px;
+  padding: 10px;
+}
+
+.title-card{
+  border: 3px solid; /* Set the border width */
+  border-image: linear-gradient(to right, #d1ce19, #0044ba); /* Set the gradient colors and direction */
+  border-image-slice: 1; /* Ensure the entire border is covered with the gradient */
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  text-align:center;
+  font-family: 'Roboto', sans-serif;
+  background-color: #fff;border-radius:10px;
+  padding: 20px;
+}
+
+.btn-my{
+background:#ded702;
+color:#000;
+font-weight:bold;
+width:330px;
+}
+
+@media screen and (max-width: 767px) {
+.service_text{
+  font-size:13px;
+}
+.service_text_2{
+  font-size:13px;
+}
+}
+#service_text {
+color: #FFD700; /* Initial yellow color */
+font-size:30px;
+text-decoration: underline;
+display: inline;
+}
+#ship_text{
+color:#705f00;
+font-size:25px;
+}
+#loader-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff; /* Change the background color as needed */
+  z-index: 9999;
+}
+
+#logo {
+  /* Add your logo styling here */
+  width: 300px; /* Adjust the size of your logo */
+  height: 100px;
+  margin-bottom: 100px;
+}
+
+#loading-circle {
+  margin-top: 10px;
+  border: 8px solid #2f58a7; /* Color of the loading circle */
+  border-top: 8px solid #ffc900; /* Color of the loading circle */
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+
+#additional-animation {
+  margin-top: 10px;
+  /* Add styles for your additional animation here */
+  /* Example: width, height, background-color, etc. */
+  width: 50px;
+  height: 50px;
+  background-color: #2f58a7;
+  animation: bounce 1s infinite alternate;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes bounce {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(10px); }
+}
+.bottom-navigation {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffffff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  z-index: 1000;
+  border-top: 2px solid;
+  border-image: linear-gradient(to right, #2f58a7, #ffc900);
+  border-image-slice: 1;
+}
+
+.bottom-navigation a {
+  text-decoration: none;
+  color: #000000;
+  text-align: center;
+  padding: 15px 10px;
+  width: 50%;
+}
+
+.bottom-navigation i {
+  margin-bottom: 5px;
+}
+
+.activ_bot{
+  color:#2f58a7 !important;
+  font-weight:bold;
+}

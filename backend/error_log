@@ -1,0 +1,306 @@
+[22-Nov-2023 01:30:53 America/New_York] PHP Warning:  file_get_contents(http://localhost/freight/calculated_quote.php?q_id=26): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 20
+[22-Nov-2023 01:36:47 America/New_York] PHP Notice:  Undefined index: destination_airport in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 11
+[22-Nov-2023 02:04:02 America/New_York] PHP Parse error:  syntax error, unexpected '$qid' (T_VARIABLE) in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 35
+[22-Nov-2023 02:05:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:05:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:05:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:05:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:07:58 America/New_York] PHP Notice:  Undefined variable: conn in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:07:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:08:29 America/New_York] PHP Notice:  Undefined variable: conn in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:08:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:08:31 America/New_York] PHP Notice:  Undefined variable: conn in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 02:08:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/genrate_pdf.php on line 10
+[22-Nov-2023 04:10:53 America/New_York] PHP Notice:  Undefined index: orgin_airport in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 8
+[22-Nov-2023 04:10:53 America/New_York] PHP Notice:  Undefined index: destination_airport in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 11
+[26-Nov-2023 22:48:22 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/posfkpop/skillheist.com/prime/vendor/composer/platform_check.php on line 24
+[26-Nov-2023 22:52:19 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/posfkpop/skillheist.com/prime/vendor/composer/platform_check.php on line 24
+[26-Nov-2023 22:52:22 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/posfkpop/skillheist.com/prime/vendor/composer/platform_check.php on line 24
+[26-Nov-2023 22:52:29 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/posfkpop/skillheist.com/prime/vendor/composer/platform_check.php on line 24
+[27-Nov-2023 07:53:42 Asia/Dubai] PHP Warning:  Undefined array key "qid" in /home/posfkpop/skillheist.com/prime/calculated_quote.php on line 5
+[27-Nov-2023 08:10:03 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_warehouse_quote.php on line 12
+[27-Nov-2023 08:52:53 Asia/Dubai] PHP Warning:  Undefined array key "orgin_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 8
+[27-Nov-2023 08:52:53 Asia/Dubai] PHP Warning:  Undefined array key "destination_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 11
+[27-Nov-2023 10:53:49 Asia/Dubai] PHP Warning:  Undefined array key "orgin_city" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 7
+[27-Nov-2023 10:53:49 Asia/Dubai] PHP Warning:  Undefined array key "orgin_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 8
+[27-Nov-2023 10:53:49 Asia/Dubai] PHP Warning:  Undefined array key "destination_city" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 10
+[27-Nov-2023 10:53:49 Asia/Dubai] PHP Warning:  Undefined array key "destination_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 11
+[27-Nov-2023 11:57:51 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_warehouse_quote.php on line 12
+[28-Nov-2023 10:55:51 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_warehouse_quote.php on line 12
+[28-Nov-2023 10:56:45 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_warehouse_quote.php on line 12
+[28-Nov-2023 11:57:42 Asia/Dubai] PHP Warning:  Undefined array key "orgin_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 8
+[28-Nov-2023 11:57:42 Asia/Dubai] PHP Warning:  Undefined array key "destination_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 11
+[28-Nov-2023 12:12:43 Asia/Dubai] PHP Warning:  Undefined array key "orgin_city" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 7
+[28-Nov-2023 12:12:43 Asia/Dubai] PHP Warning:  Undefined array key "orgin_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 8
+[28-Nov-2023 12:12:43 Asia/Dubai] PHP Warning:  Undefined array key "destination_city" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 10
+[28-Nov-2023 12:12:43 Asia/Dubai] PHP Warning:  Undefined array key "destination_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 11
+[29-Nov-2023 11:46:49 Asia/Dubai] PHP Warning:  Undefined array key "orgin_city" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 7
+[29-Nov-2023 11:46:49 Asia/Dubai] PHP Warning:  Undefined array key "orgin_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 8
+[29-Nov-2023 11:46:49 Asia/Dubai] PHP Warning:  Undefined array key "destination_city" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 10
+[29-Nov-2023 11:46:49 Asia/Dubai] PHP Warning:  Undefined array key "destination_airport" in /home/posfkpop/skillheist.com/prime/backend/gen_air_quote.php on line 11
+[30-Nov-2023 15:52:45 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'countsry_id' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/del_airline.php:8
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/del_airline.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/del_airline.php on line 8
+[30-Nov-2023 15:54:00 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'countsry_id' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/del_airline.php:8
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/del_airline.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/del_airline.php on line 8
+[30-Nov-2023 16:55:32 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_warehouse_quote.php on line 12
+[30-Nov-2023 18:40:34 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'countsry_id' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/del_airline.php:8
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/del_airline.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/del_airline.php on line 8
+[05-Dec-2023 18:32:56 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_warehouse_quote.php on line 12
+[06-Dec-2023 13:09:48 Asia/Dubai] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * string in /home/posfkpop/skillheist.com/prime/backend/add_packages.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_packages.php on line 16
+[06-Dec-2023 13:09:49 Asia/Dubai] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * string in /home/posfkpop/skillheist.com/prime/backend/add_packages.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_packages.php on line 16
+[06-Dec-2023 13:21:50 Asia/Dubai] PHP Warning:  Undefined array key "orgin_seaport" in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 8
+[06-Dec-2023 13:21:50 Asia/Dubai] PHP Warning:  Undefined array key "destination_seaport" in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 11
+[06-Dec-2023 13:21:50 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 30
+[06-Dec-2023 13:56:20 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_warehouse_quote.php on line 12
+[13-Dec-2023 12:24:38 Asia/Dubai] PHP Warning:  Undefined variable $dbname_02 in /home/posfkpop/skillheist.com/prime/backend/conn.php on line 26
+[13-Dec-2023 14:06:02 Asia/Dubai] PHP Warning:  Undefined array key "qid" in /home/posfkpop/skillheist.com/prime/calculated_quote.php on line 5
+[13-Dec-2023 14:40:19 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_warehouse_quote.php on line 12
+[13-Dec-2023 14:47:31 Asia/Dubai] PHP Warning:  Undefined array key "destination_city" in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 10
+[13-Dec-2023 14:47:31 Asia/Dubai] PHP Warning:  Undefined array key "destination_seaport" in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 11
+[13-Dec-2023 14:47:31 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 30
+[13-Dec-2023 15:33:56 Asia/Dubai] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * float in /home/posfkpop/skillheist.com/prime/backend/add_packages.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_packages.php on line 16
+[13-Dec-2023 15:55:08 Asia/Dubai] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home/posfkpop/skillheist.com/prime/backend/add_packages.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_packages.php on line 16
+[15-Dec-2023 12:45:18 Asia/Dubai] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * string in /home/posfkpop/skillheist.com/prime/backend/add_packages.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_packages.php on line 16
+[15-Dec-2023 14:58:59 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/del_afo_charge.php on line 10
+[19-Dec-2023 16:21:35 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/logout.php on line 5
+[19-Dec-2023 18:31:35 Asia/Dubai] PHP Warning:  A non-numeric value encountered in /home/posfkpop/skillheist.com/prime/calculated_quote.php on line 185
+[19-Dec-2023 18:56:14 Asia/Dubai] PHP Warning:  Undefined variable $rsDelAd in /home/posfkpop/skillheist.com/prime/backend/edit_cargo_type.php on line 16
+[20-Dec-2023 12:09:19 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 12:10:04 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 12:23:12 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 12:24:05 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 12:24:32 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 12:25:16 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 12:26:07 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 12:26:29 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 12:26:59 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 16:58:11 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 16:59:09 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 16:59:52 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:00:39 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:03:46 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:04:30 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:06:05 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:10:53 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:11:54 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:13:06 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:13:56 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:17:42 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:28:16 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:30:22 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:31:50 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:33:09 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:39:01 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:39:55 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_air_charge.php on line 67
+[20-Dec-2023 17:41:11 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:44:15 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:45:38 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:49:56 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 17:51:15 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:00:07 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:02:05 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:04:09 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:07:10 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:09:41 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:11:49 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:13:42 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:14:20 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:16:41 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:17:49 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:19:40 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:20:49 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:21:42 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_charge.php on line 35
+[20-Dec-2023 18:55:38 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/logout.php on line 5
+[20-Dec-2023 19:22:30 Asia/Dubai] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * string in /home/posfkpop/skillheist.com/prime/backend/add_packages.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_packages.php on line 19
+[22-Dec-2023 12:17:01 Asia/Dubai] PHP Warning:  Undefined array key "cargo_type" in /home/posfkpop/skillheist.com/prime/backend/add_packages.php on line 18
+[22-Dec-2023 12:59:42 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 30
+[22-Dec-2023 14:09:31 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 30
+[22-Dec-2023 14:19:59 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 30
+[22-Dec-2023 14:22:16 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_sea_quote.php on line 30
+[23-Dec-2023 12:23:39 Asia/Dubai] PHP Warning:  Undefined array key "qid" in /home/posfkpop/skillheist.com/prime/backend/sel_container.php on line 4
+[23-Dec-2023 12:24:01 Asia/Dubai] PHP Warning:  Undefined array key "qid" in /home/posfkpop/skillheist.com/prime/backend/sel_container.php on line 4
+[23-Dec-2023 12:26:10 Asia/Dubai] PHP Warning:  Undefined array key "qid" in /home/posfkpop/skillheist.com/prime/backend/sel_container.php on line 4
+[24-Dec-2023 21:53:53 Asia/Dubai] PHP Warning:  Undefined array key "sea_v_name" in /home/posfkpop/skillheist.com/prime/backend/add_sea_vendors.php on line 5
+[25-Dec-2023 08:35:26 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1',
+              'Clearance Charge','100','1','1','100','2023-12-25')' at line 4 in /home/posfkpop/skillheist.com/prime/backend/add_lfo_charge.php:24
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_lfo_charge.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_lfo_charge.php on line 24
+[25-Dec-2023 08:35:31 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1',
+              'Clearance Charge','100','1','1','100','2023-12-25')' at line 4 in /home/posfkpop/skillheist.com/prime/backend/add_lfo_charge.php:24
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_lfo_charge.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_lfo_charge.php on line 24
+[25-Dec-2023 10:24:13 Asia/Dubai] PHP Warning:  Undefined variable $q_id in /home/posfkpop/skillheist.com/prime/backend/gen_land_quote.php on line 30
+[25-Dec-2023 12:00:48 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_sea_charge.php on line 83
+[25-Dec-2023 12:01:01 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_sea_charge.php on line 83
+[25-Dec-2023 12:01:13 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_sea_charge.php on line 83
+[25-Dec-2023 12:01:26 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_sea_charge.php on line 83
+[25-Dec-2023 12:09:17 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_sea_charge.php on line 46
+[25-Dec-2023 12:09:39 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_sea_charge.php on line 83
+[25-Dec-2023 12:09:56 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/edit_sea_charge.php on line 83
+[25-Dec-2023 12:11:09 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_sea_charge.php on line 46
+[25-Dec-2023 12:12:23 Asia/Dubai] PHP Warning:  Undefined array key "uid" in /home/posfkpop/skillheist.com/prime/backend/add_sea_charge.php on line 46
+[25-Dec-2023 12:12:48 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's standard dummy text ever since the 1500s, when an unknown printer took a ga...' at line 1 in /home/posfkpop/skillheist.com/prime/backend/add_terms_c.php:15
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_terms_c.php(15): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_terms_c.php on line 15
+[25-Dec-2023 12:13:49 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's standard dummy text ever since the 1500s, when an unknown printer took a ga...' at line 1 in /home/posfkpop/skillheist.com/prime/backend/add_terms_c.php:15
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_terms_c.php(15): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_terms_c.php on line 15
+[26-Dec-2023 11:09:55 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:02 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:36 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:37 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:37 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:37 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:39 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:39 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:40 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:40 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:40 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:40 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:40 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:41 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:41 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:42 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:42 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:42 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:43 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 11:10:44 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 12:04:19 Asia/Dubai] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wc_name' in 'where clause' in /home/posfkpop/skillheist.com/prime/backend/add_wc.php:10
+Stack trace:
+#0 /home/posfkpop/skillheist.com/prime/backend/add_wc.php(10): mysqli->query()
+#1 {main}
+  thrown in /home/posfkpop/skillheist.com/prime/backend/add_wc.php on line 10
+[26-Dec-2023 12:18:38 Asia/Dubai] PHP Warning:  Undefined variable $rsDelAd in /home/posfkpop/skillheist.com/prime/backend/edit_cargo_type.php on line 16
+[26-Dec-2023 12:20:54 Asia/Dubai] PHP Warning:  Undefined variable $rsAdd in /home/posfkpop/skillheist.com/prime/backend/del_cm_data.php on line 15
+[26-Dec-2023 12:22:02 Asia/Dubai] PHP Warning:  Undefined variable $rsAdd in /home/posfkpop/skillheist.com/prime/backend/del_cm_data.php on line 15

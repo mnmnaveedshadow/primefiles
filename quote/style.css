@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.table-border {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  border-color: green;
+}
+
+.custom-padding {
+  padding: 8px;
+}
+
+.custom-table--2 {
+  width: 100%;
+  table-layout: fixed;
+}
+
+hr {
+  border: 1px solid rgb(44, 73, 44); 
+  color: green;
+  margin: 20px 0; 
+  width: 100%; 
+}
